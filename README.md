@@ -2,10 +2,10 @@
 Greetings! This file contains all the ipynb files related to my M.Sc thesis project.
 
 **Overview:**
-This GitHub repository showcases my master's thesis project, conducted as part of my master's degree in Astronomy at the Indian Institute of Technology Indore. The project focuses on the fascinating domain of the Search for Extraterrestrial Intelligence (SETI) and involves the identification of Dyson Sphere candidates within the Milky Way using the GAIA database. The primary goal is to contribute to the exploration of potential Extraterrestrial Intelligence Civilizations.
+This GitHub repository showcases my master's thesis project, conducted as part of my master's degree in Astronomy at the Indian Institute of Technology Indore (IIT Indore), India. The project focuses on the fascinating domain of the Search for Extraterrestrial Intelligence (SETI) and involves the identification of Dyson Sphere candidates within the Milky Way using the GAIA database. The primary goal is to contribute to the exploration of potential Extraterrestrial Intelligence Civilizations.
 
 **Key Features:**
-- **Dyson Sphere Identification:** The project employs a novel approach to identify Dyson Sphere candidates, which are techno signatures of potential Extraterrestrial Intelligence Civilizations.
+- **Dyson Sphere Identification:** The project employs a novel approach to identify Dyson Sphere candidates (a technosignature of potential Extraterrestrial Intelligence Civilizations). Dyson Spheres are hypothetical megastructures expected to be built by advanced extraterrestrial civilisations to harvest radiation energy from stars. The observational signature of the Dyson sphere is dimming in the optical band due to the obscuration of starlight and brightening in infrared due to the radiative release of waste heat from the structure.
   
 - **Red Fraction Parameter:** One of the core contributions is the development of the "Red Fraction" parameter. This parameter quantifies the dust obscuration surrounding Dyson Sphere candidates, aiding in the identification and differentiation of genuine candidates from false positives.
 
@@ -23,7 +23,7 @@ This GitHub repository showcases my master's thesis project, conducted as part o
 - Showcases proficiency in Python programming, algorithms, and cross-referencing techniques.
 
 **Project Outcome:**
-I have found 166 stars in the Milky Way that could possibly have Extraterrestrial Intelligence Life. However, we need to verify this further and are planning to perform Optical and Infrared Spectroscopy on our top candidates.
+I have found 166 stars in the Milky Way that could possibly host Extraterrestrial Intelligence Life. However, we need to verify this further and are planning to perform Optical and Infrared Spectroscopy on our top candidates.
 
 This project has provided invaluable experience in ** large dataset handling, data analysis and visualisation, and the application of programming skills to tackle complex problems in Astrophysics**. The developed methodologies offer a unique contribution to the ongoing efforts in the search for Extraterrestrial Intelligence. 
 
