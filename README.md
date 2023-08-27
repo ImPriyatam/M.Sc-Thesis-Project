@@ -59,4 +59,4 @@ This project has provided invaluable experience in ** large dataset handling, da
 
 15. **Understanding of Observational Methods:** Enhanced comprehension of various observational methods and their role in advancing our understanding of celestial phenomena and the universe.
 
-These acquired skills reflect your comprehensive growth and development throughout your master's thesis project, positioning you as a competent and capable researcher in the field of Astrophysics.
+These acquired skills reflect my comprehensive growth and development throughout my master's thesis project, positioning me as a competent and capable researcher in the field of Astrophysics.
