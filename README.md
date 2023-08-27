@@ -9,11 +9,11 @@ This GitHub repository showcases my master's thesis project, conducted as part o
   
 - **Red Fraction Parameter:** One of the core contributions is the development of the "Red Fraction" parameter. This parameter quantifies the dust obscuration surrounding Dyson Sphere candidates, aiding in the identification and differentiation of genuine candidates from false positives.
 
-- **Cross-Verification:** The repository includes code for cross-verifying Dyson Sphere candidates using various astronomical databases such as Aladin Lite, VizieR, IRSA, and SDSS. This step is crucial in refining the list of candidates and ensuring accuracy.
-
 - **Advanced Algorithms and Data Analysis:** The project incorporates sophisticated algorithms to analyze photometric data retrieved from diverse sources including GAIA, 2MASS, WISE, and SDSS. The analysis leverages the G-K colour-magnitude diagram to quantify dust obscuration around Dyson Sphere candidates.
 
-- **Python Codebase:** The repository features a comprehensive Python codebase that facilitates the extraction of stellar data from the GAIA database using the Astroquery Python Library and Astronomical Database Query Language (ADQL).
+- **Cross-Verification:** The repository includes code for cross-verifying Dyson Sphere candidates using various astronomical databases such as Aladin Lite, VizieR, IRSA, and SDSS. This step is crucial in refining the list of candidates and ensuring accuracy.
+
+- **Python Codebase:** The repository features a comprehensive Python codebase that facilitates the extraction of stellar data from the GAIA database using the Astroquery Python Library and Astronomical Database Query Language (ADQL). I have extensively used Python programming to work in this project.
 
 **Benefits:**
 - Contributes to the field of SETI by providing a systematic and data-driven approach to identify potential Dyson Sphere candidates.
