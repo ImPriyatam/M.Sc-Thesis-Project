@@ -2,7 +2,7 @@
 Greetings! This file contains all the ipynb files related to my M.Sc thesis project.
 
 **Overview:**
-This GitHub repository showcases my master's thesis project, conducted as part of my Astronomy program at the Indian Institute of Technology Indore. The project focuses on the fascinating domain of the Search for Extraterrestrial Intelligence (SETI) and involves the identification of Dyson Sphere candidates within the Milky Way using the GAIA database. The primary goal is to contribute to the exploration of potential Extraterrestrial Intelligence Civilizations.
+This GitHub repository showcases my master's thesis project, conducted as part of my master's degree in Astronomy at the Indian Institute of Technology Indore. The project focuses on the fascinating domain of the Search for Extraterrestrial Intelligence (SETI) and involves the identification of Dyson Sphere candidates within the Milky Way using the GAIA database. The primary goal is to contribute to the exploration of potential Extraterrestrial Intelligence Civilizations.
 
 **Key Features:**
 - **Dyson Sphere Identification:** The project employs a novel approach to identify Dyson Sphere candidates, which are techno signatures of potential Extraterrestrial Intelligence Civilizations.
@@ -25,4 +25,3 @@ This GitHub repository showcases my master's thesis project, conducted as part o
 **Project Outcome:**
 This project has provided invaluable experience in data analysis, large dataset handling, and the application of programming skills to tackle complex problems in Astrophysics. The developed methodologies offer a unique contribution to the ongoing efforts in the search for Extraterrestrial Intelligence and broaden our understanding of celestial phenomena.
 
-Feel free to customize and expand upon this description to fit the specifics of your project.
