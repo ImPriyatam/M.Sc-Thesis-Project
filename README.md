@@ -1,8 +1,5 @@
-# My-Project
-Hello, in this file I keep all the ipynb files associated with my M.Sc thesis project.
-
-
-**Master's Thesis Project: "Searching for Extraterrestrial Intelligence Through Multi-wavelength Observations"**
+# **Master's Thesis Project: "Searching for Extraterrestrial Intelligence Through Multi-wavelength Observations"**
+Greetings! This file contains all the ipynb files related to my M.Sc thesis project.
 
 **Overview:**
 This GitHub repository showcases my master's thesis project, conducted as part of my Astronomy program at the Indian Institute of Technology Indore. The project focuses on the fascinating domain of the Search for Extraterrestrial Intelligence (SETI) and involves the identification of Dyson Sphere candidates within the Milky Way using the GAIA database. The primary goal is to contribute to the exploration of potential Extraterrestrial Intelligence Civilizations.
