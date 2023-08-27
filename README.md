@@ -23,5 +23,6 @@ This GitHub repository showcases my master's thesis project, conducted as part o
 - Showcases proficiency in Python programming, algorithms, and cross-referencing techniques.
 
 **Project Outcome:**
-This project has provided invaluable experience in data analysis, large dataset handling, and the application of programming skills to tackle complex problems in Astrophysics. The developed methodologies offer a unique contribution to the ongoing efforts in the search for Extraterrestrial Intelligence and broaden our understanding of celestial phenomena.
+I have found 166 stars in the Milky Way that could possibly have Extraterrestrial Intelligence Life. However, we need to verify this further and are planning to perform Optical and Infrared Spectroscopy on our top candidates.
 
+This project has provided invaluable experience in **data analysis, large dataset handling, and the application of programming skills to tackle complex problems in Astrophysics**. The developed methodologies offer a unique contribution to the ongoing efforts in the search for Extraterrestrial Intelligence. 
