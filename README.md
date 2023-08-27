@@ -13,7 +13,7 @@ This GitHub repository showcases my master's thesis project, conducted as part o
 
 - **Cross-Verification:** The repository includes code for cross-verifying Dyson Sphere candidates using various astronomical databases such as Aladin Lite, VizieR, IRSA, and SDSS. This step is crucial in refining the list of candidates and ensuring accuracy.
 
-- **Python Codebase:** The repository features a comprehensive Python codebase that facilitates the extraction of stellar data from the GAIA database using the Astroquery Python Library and Astronomical Database Query Language (ADQL). I have extensively used Python programming to work in this project.
+- **Python Codebase:** The repository features a comprehensive Python codebase that facilitates the extraction of stellar data from the GAIA database using the Astroquery Python Library and Astronomical Database Query Language (ADQL). I have extensively used Python programming to work on this project.
 
 **Benefits:**
 - Contributes to the field of SETI by providing a systematic and data-driven approach to identify potential Dyson Sphere candidates.
@@ -25,4 +25,4 @@ This GitHub repository showcases my master's thesis project, conducted as part o
 **Project Outcome:**
 I have found 166 stars in the Milky Way that could possibly have Extraterrestrial Intelligence Life. However, we need to verify this further and are planning to perform Optical and Infrared Spectroscopy on our top candidates.
 
-This project has provided invaluable experience in **data analysis, large dataset handling, and the application of programming skills to tackle complex problems in Astrophysics**. The developed methodologies offer a unique contribution to the ongoing efforts in the search for Extraterrestrial Intelligence. 
+This project has provided invaluable experience in ** large dataset handling, data analysis and visualisation, and the application of programming skills to tackle complex problems in Astrophysics**. The developed methodologies offer a unique contribution to the ongoing efforts in the search for Extraterrestrial Intelligence. 
