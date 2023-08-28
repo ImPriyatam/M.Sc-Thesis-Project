@@ -23,7 +23,7 @@ This GitHub repository showcases my master's thesis project, conducted as part o
 - Showcases proficiency in Python programming, algorithms, and cross-referencing techniques.
 
 **Project Outcome:**
-I have found 166 stars in the Milky Way that could possibly host Extraterrestrial Intelligence Life. However, we need to verify this further and are planning to perform Optical and Infrared Spectroscopy on our top candidates.
+I have found 166 stars in the Milky Way that could possibly host Extraterrestrial Intelligence Life. However, we need to verify them further and are planning to perform Optical and Infrared Spectroscopy on our top candidates.
 
 This project has provided invaluable experience in ** large dataset handling, data analysis and visualisation, and the application of programming skills to tackle complex problems in Astrophysics**. The developed methodologies offer a unique contribution to the ongoing efforts in the search for Extraterrestrial Intelligence. 
 
