@@ -1,4 +1,7 @@
 # **Master's Thesis Project: "Searching for Extraterrestrial Intelligence Through Multi-wavelength Observations"**
+
+## **Link for Master's thesis: https://drive.google.com/file/d/1y49WqruqjIq42yuP5qHfyfqRtAnl-DzL/view?usp=sharing**
+
 Greetings! This file contains all the ipynb files related to my M.Sc thesis project.
 
 **Overview:**
